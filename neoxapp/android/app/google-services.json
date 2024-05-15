@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318352650622",
+    "project_id": "neox-ucm",
+    "storage_bucket": "neox-ucm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318352650622:android:e25169c0aecf7f6177032f",
+        "android_client_info": {
+          "package_name": "com.example.neoxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5aBPaclR5WducZyIyF0D_lxmK7aFAEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
